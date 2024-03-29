@@ -5,5 +5,5 @@ int main()
 {
     int x=2;
     cout<<x<<endl;
-    cout<<"Mota bhais ka pota";
+    cout<<"hello universe";
 }
